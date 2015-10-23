@@ -1,2 +1,4 @@
 # spritpreismonitor
-Die aktuellen Preise via spritpreismonitor.de. 
+Die aktuellen Spritpreise via spritpreismonitor.de. 
+
+![alt tag](http://www.spritpreismonitor.de/fileadmin/templates/img/logo.png)
